@@ -107,6 +107,7 @@ No Activity Tracked This Week
 
 ### DevTo Posts
 <!-- DevTo-POSTS:START -->
+- [The Number that Broke and Spoke – C++ Investigator](https://dev.to/koralkashri/the-number-that-broke-and-spoke-c-investigator-o97)
 - [Template Base Class Collection](https://dev.to/koralkashri/template-base-class-collection-2jel)
 - [C++ Basic templates usage – Part 2](https://dev.to/koralkashri/basic-templates-usage-part-2-1had)
 - [C++ Basic templates usage – Part 1](https://dev.to/koralkashri/basic-templates-usage-part-1-g1i)
