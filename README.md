@@ -76,23 +76,8 @@ $   $ $    $ $$  $$ $    $ $   $
 🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   28.06% 
 🌃 Evening    140 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37% 
 🌙 Night      172 commits    ████████░░░░░░░░░░░░░░░░░   32.39%
-
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 31/07/2021
+Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
