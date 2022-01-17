@@ -102,4 +102,4 @@ Last Updated on 31/07/2021
 <!--<p>
          <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koralkashri&layout=compact&hide=html" alt="koralkashri" />
 </p>-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koralkashri&show_icons=true" alt="coralkashri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coralkashri&show_icons=true" alt="coralkashri" /></p>
