@@ -81,12 +81,12 @@ Last Updated on 31/07/2021
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [The Shared The Unique and The Weak – Initialization – Part 1](https://cppsenioreas.wordpress.com/2023/02/28/the-shared-the-unique-and-the-weak-initialization-part-1/)
+- [The Shared, The Unique and The Weak](https://cppsenioreas.wordpress.com/2023/02/21/the-shared-the-unique-and-the-weak/)
 - [Design Patterns: RunTime Reflection – C++](https://cppsenioreas.wordpress.com/2021/01/17/design-patterns-runtime-reflection-cpp/)
 - [Design Patterns: Decorators – C++](https://cppsenioreas.wordpress.com/2021/01/03/design-patterns-decorators-cpp/)
 - [Design Patterns: Factories – C++](https://cppsenioreas.wordpress.com/2020/12/27/design-patterns-factories-cpp/)
 - [Hash your Conditions – C++](https://cppsenioreas.wordpress.com/2020/12/13/hash-your-conditions-cpp/)
-- [C++ Help your compiler to help you](https://cppsenioreas.wordpress.com/2020/12/06/cpp-attributes/)
-- [C++ Compiler Secrets: Pragma](https://cppsenioreas.wordpress.com/2020/11/29/cpp-compiler-secrets-pragma/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
