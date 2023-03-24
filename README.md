@@ -9,19 +9,18 @@
 <a href="https://www.reddit.com/u/CoralKashri?utm_medium=android_app&utm_source=share" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Coral Kashri" height="30" width="30" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koralkashri" alt="Coral Kashri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coralkashri" alt="Coral Kashri" /> </p>
 
 <table border="0">
     <tbody>
         <td>
             <ul>
-                <li><b>💼 Current work position</b>: Senior C++ RT Linux Developer.</li>
-                <li>🔭 I’m currently working on some side C++ tools for my team & Advent of Code solutions.</li>
-                <li>🌱 I’m currently learning <b>C++20 techniques</b></li>
-                <li>👯 I’m looking to collaborate on <a href="https://github.com/gcc-mirror/gcc">GCC compiler</a></li>
-                <li>👨‍💻 All of my projects are available at <a href="https://koral-kashri-portfolio.herokuapp.com/">my portfolio</a></li>
+                <li><b>💼 Current work position</b>: Senior C++ Developer.</li>
+                <li>🔭 C++ Senioreas blog writer.</li>
+                <li>🌱 I’m currently learning <b>C++20/23 techniques</b>.</li>
+                <li>👯 I’m looking to collaborate on a C++ compiler writing.</li>
                 <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton">twitter</a> Or <a href="mailto:coralkashri@gmail.com">direct message</a>.</li>
-                <li>💬 Ask me about <b>C++, Linux, RT systems</b></li>
+                <li>💬 Ask me about <b>C++17/20/23</b></li>
             </ul>
         </td>
         <td>
@@ -101,6 +100,6 @@ Last Updated on 31/07/2021
 <!-- DevTo-POSTS:END -->
 
 <!--<p>
-         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koralkashri&layout=compact&hide=html" alt="koralkashri" />
+         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koralkashri&layout=compact&hide=html" alt="coralkashri" />
 </p>-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coralkashri&show_icons=true" alt="coralkashri" /></p>
