@@ -9,8 +9,6 @@
 <a href="https://www.reddit.com/u/CoralKashri?utm_medium=android_app&utm_source=share" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Coral Kashri" height="30" width="30" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coralkashri" alt="Coral Kashri" /> </p>
-
 <table border="0">
     <tbody>
         <td>
@@ -100,6 +98,7 @@ Last Updated on 31/07/2021
 <!-- DevTo-POSTS:END -->
 
 <!--<p>
-         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koralkashri&layout=compact&hide=html" alt="coralkashri" />
+         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coralkashri&layout=compact&hide=html" alt="coralkashri" />
 </p>-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coralkashri&show_icons=true" alt="coralkashri" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coralkashri" alt="Coral Kashri" /> </p>
