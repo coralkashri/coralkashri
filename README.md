@@ -79,12 +79,12 @@ Last Updated on 31/07/2021
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [Riddle – The Shared View](https://cppsenioreas.wordpress.com/2023/03/28/riddle-the-shared-view/)
 - [The Mystery of The Missing Bytes](https://cppsenioreas.wordpress.com/2023/03/20/the-mystery-of-the-missing-bytes/)
 - [The Shared The Unique and The Weak – Initialization – Part 2](https://cppsenioreas.wordpress.com/2023/03/13/the-shared-the-unique-and-the-weak-initialization-part-2/)
 - [The Shared The Unique and The Weak – Initialization – Part 1](https://cppsenioreas.wordpress.com/2023/02/28/the-shared-the-unique-and-the-weak-initialization-part-1/)
 - [The Shared, The Unique and The Weak](https://cppsenioreas.wordpress.com/2023/02/21/the-shared-the-unique-and-the-weak/)
 - [Design Patterns: RunTime Reflection – C++](https://cppsenioreas.wordpress.com/2021/01/17/design-patterns-runtime-reflection-cpp/)
-- [Design Patterns: Decorators – C++](https://cppsenioreas.wordpress.com/2021/01/03/design-patterns-decorators-cpp/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
