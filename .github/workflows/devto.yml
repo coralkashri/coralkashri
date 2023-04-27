@@ -23,6 +23,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "6"
-          feed_list: "https://dev.to/feed/koralkashri"
+          feed_list: "https://dev.to/feed/coralkashri"
           gh_token: ${{ secrets.GH_TOKEN }}
           comment_tag_name: "DevTo-POSTS"
