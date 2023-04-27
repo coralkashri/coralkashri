@@ -1,18 +1,26 @@
 name: Latest DevTo blog posts
 on:
+  push:
+    branches:
+      - master
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every day at 16:00
+    - cron: '0 16 */1 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
          persist-credentials: false
          fetch-depth: 0
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "6"
           feed_list: "https://dev.to/feed/koralkashri"
