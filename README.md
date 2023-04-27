@@ -89,12 +89,12 @@ Last Updated on 31/07/2021
 
 ### DevTo Posts
 <!-- DevTo-POSTS:START -->
-- [The Number that Broke and Spoke – C++ Investigator](https://dev.to/koralkashri/the-number-that-broke-and-spoke-c-investigator-o97)
-- [Template Base Class Collection](https://dev.to/koralkashri/template-base-class-collection-2jel)
-- [C++ Basic templates usage – Part 2](https://dev.to/koralkashri/basic-templates-usage-part-2-1had)
-- [C++ Basic templates usage – Part 1](https://dev.to/koralkashri/basic-templates-usage-part-1-g1i)
-- [C++ Meta Programming: Why?](https://dev.to/koralkashri/c-meta-programming-why-4249)
-- [Before starting a new project – The Most Important Decision](https://dev.to/koralkashri/before-starting-a-new-project-the-most-important-decision-31c5)
+- [The View of The String](https://dev.to/coralkashri/the-view-of-the-string-1895)
+- [The Number that Broke and Spoke – C++ Investigator](https://dev.to/coralkashri/the-number-that-broke-and-spoke-c-investigator-o97)
+- [Template Base Class Collection](https://dev.to/coralkashri/template-base-class-collection-2jel)
+- [C++ Basic templates usage – Part 2](https://dev.to/coralkashri/basic-templates-usage-part-2-1had)
+- [C++ Basic templates usage – Part 1](https://dev.to/coralkashri/basic-templates-usage-part-1-g1i)
+- [C++ Meta Programming: Why?](https://dev.to/coralkashri/c-meta-programming-why-4249)
 <!-- DevTo-POSTS:END -->
 
 <!--<p>
