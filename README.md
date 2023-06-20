@@ -79,12 +79,12 @@ Last Updated on 31/07/2021
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [From Modern to Unbelievably Modern C++](https://cppsenioreas.wordpress.com/2023/06/20/from-modern-to-unbelievably-modern-c/)
 - [Into the Extreme – Fold-Expressions](https://cppsenioreas.wordpress.com/2023/05/22/into-the-extreme-fold-expressions/)
 - [The View of The String](https://cppsenioreas.wordpress.com/2023/04/24/the-view-of-the-string/)
 - [explicit&lpar;To Be || !&lpar;To Be&rpar;&rpar;](https://cppsenioreas.wordpress.com/2023/04/10/explicitto-be-to-be/)
 - [New Discord &amp; Telegram servers](https://cppsenioreas.wordpress.com/2023/04/04/new-discord-and-telegram-servers/)
 - [[Solution] Riddle – The Shared View](https://cppsenioreas.wordpress.com/2023/04/03/solution-riddle-the-shared-view/)
-- [Riddle – The Shared View](https://cppsenioreas.wordpress.com/2023/03/28/riddle-the-shared-view/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
