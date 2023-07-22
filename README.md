@@ -89,12 +89,12 @@ Last Updated on 31/07/2021
 
 ### DevTo Posts
 <!-- DevTo-POSTS:START -->
+- [LConst PConst - C++](https://dev.to/coralkashri/lconst-pconst-bke)
 - [Into the Extreme – Fold-Expressions](https://dev.to/coralkashri/into-the-extreme-fold-expressions-cfl)
 - [The View of The String](https://dev.to/coralkashri/the-view-of-the-string-1895)
 - [The Number that Broke and Spoke – C++ Investigator](https://dev.to/coralkashri/the-number-that-broke-and-spoke-c-investigator-o97)
 - [Template Base Class Collection](https://dev.to/coralkashri/template-base-class-collection-2jel)
 - [C++ Basic templates usage – Part 2](https://dev.to/coralkashri/basic-templates-usage-part-2-1had)
-- [C++ Basic templates usage – Part 1](https://dev.to/coralkashri/basic-templates-usage-part-1-g1i)
 <!-- DevTo-POSTS:END -->
 
 <!--<p>
