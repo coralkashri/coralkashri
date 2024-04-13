@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Coral 👋</h1>
-<h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.<br>LGBTQ+ Community</h3>
+<h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.<br>LGBTQ+ Community Member</h3>
 
 <p align="center">
 <a href="https://dev.to/coralkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Coral Kashri" height="30" width="30" /></a>
