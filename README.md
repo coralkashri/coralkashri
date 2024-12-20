@@ -79,12 +79,12 @@ Last Updated on 31/07/2021
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [ADL – Avoid Debugging Later](https://cppsenioreas.wordpress.com/2024/12/20/adl-avoid-debugging-later/)
 - [It’s just ‘,’ – The Comma Operator](https://cppsenioreas.wordpress.com/2024/10/21/its-just-comma-the-comma-operator-cpp/)
 - [Stream Recommendation: Daisy Hollman](https://cppsenioreas.wordpress.com/2024/10/08/stream-recommendation-daisy-hollman/)
 - [Watch: From Modern to Unbelievably Modern C++](https://cppsenioreas.wordpress.com/2023/09/26/watch-from-modern-to-unbelievably-modern-c/)
 - [LConst PConst](https://cppsenioreas.wordpress.com/2023/07/17/lconst-pconst/)
 - [From Modern to Unbelievably Modern C++](https://cppsenioreas.wordpress.com/2023/06/20/from-modern-to-unbelievably-modern-c/)
-- [Into the Extreme – Fold-Expressions](https://cppsenioreas.wordpress.com/2023/05/22/into-the-extreme-fold-expressions/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
