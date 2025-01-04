@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - gh-pages
   schedule:
     # Runs every day at 16:00
     - cron: '0 16 */1 * *'
