@@ -7,7 +7,7 @@
   border-bottom: #77aaff 3px solid;
 }
 
-header a {
+.button {
   
                 display: inline-block;
                 outline: 0;
@@ -35,8 +35,8 @@ header a {
                 
 </style>
 <header>
-    <a href="https://coralkashri.github.io/Cpp-Senioreas-All-Articles/">C++ Senioreas Articles</a>
-    <a href="https://coralkashri.github.io/from-a-modern-to-an-unbelievably-modern-cpp/">CoreC++ 2023 Slides</a>
+    <a class="button" href="https://coralkashri.github.io/Cpp-Senioreas-All-Articles/">C++ Senioreas Articles</a>
+    <a class="button" href="https://coralkashri.github.io/from-a-modern-to-an-unbelievably-modern-cpp/">CoreC++ 2023 Slides</a>
 </header>
 <h1 align="center">Hi, I'm Coral 👋</h1>
 <h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.<br>LGBTQ+ Community Member</h3>
