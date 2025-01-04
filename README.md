@@ -54,7 +54,7 @@ header a {
         <td>
             <ul>
                 <li><b>💼 Current work position</b>: Senior C++ Developer.</li>
-                <li>🔭 <a href="https://www.cppsenioreas.wordpress.com">C++ Senioreas</a> blog writer.</li>
+                <li>🔭 <a href="https://cppsenioreas.wordpress.com/">C++ Senioreas</a> blog writer.</li>
                 <li>🌱 I’m currently learning <b>C++20/23 techniques</b>.</li>
                 <li>👯 I’m looking to collaborate on a C++ compiler writing.</li>
                 <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton">twitter</a> Or <a href="mailto:coralkashri@gmail.com">direct message</a>.</li>
