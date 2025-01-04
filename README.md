@@ -1,3 +1,23 @@
+<style>
+    header {
+  background: #333;
+  color: #fff;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #77aaff 3px solid;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+</style>
+<header>
+    <a href="https://coralkashri.github.io/Cpp-Senioreas-All-Articles/">C++ Senioreas Articles</a>
+    <a href="https://coralkashri.github.io/from-modern-to-unbelivably-modern-cpp/">CoreC++ 2023 Slides</a>
+</header>
 <h1 align="center">Hi, I'm Coral 👋</h1>
 <h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.<br>LGBTQ+ Community Member</h3>
 
@@ -14,7 +34,7 @@
         <td>
             <ul>
                 <li><b>💼 Current work position</b>: Senior C++ Developer.</li>
-                <li>🔭 C++ Senioreas blog writer.</li>
+                <li>🔭 [C++ Senioreas](https://www.cppsenioreas.wordpress.com) blog writer.</li>
                 <li>🌱 I’m currently learning <b>C++20/23 techniques</b>.</li>
                 <li>👯 I’m looking to collaborate on a C++ compiler writing.</li>
                 <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton">twitter</a> Or <a href="mailto:coralkashri@gmail.com">direct message</a>.</li>
@@ -23,20 +43,6 @@
         </td>
     </tbody>
 </table>
-
-
-### My last week languages activity
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   28.06% 
-🌃 Evening    140 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37% 
-🌙 Night      172 commits    ████████░░░░░░░░░░░░░░░░░   32.39%
-```
-Last Updated on 31/07/2021
-<!--END_SECTION:waka-->
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
