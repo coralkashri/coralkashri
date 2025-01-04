@@ -8,11 +8,31 @@
 }
 
 header a {
-  color: #fff;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 16px;
+  
+                display: inline-block;
+                outline: 0;
+                border: 0;
+                cursor: pointer;
+                will-change: box-shadow,transform;
+                background: radial-gradient( 100% 100% at 100% 0%, #89E5FF 0%, #5468FF 100% );
+                box-shadow: 0px 2px 4px rgb(45 35 66 / 40%), 0px 7px 13px -3px rgb(45 35 66 / 30%), inset 0px -3px 0px rgb(58 65 111 / 50%);
+                padding: 0 32px;
+                border-radius: 6px;
+                color: #fff;
+                height: 48px;
+                font-size: 18px;
+                text-shadow: 0 1px 0 rgb(0 0 0 / 40%);
+                transition: box-shadow 0.15s ease,transform 0.15s ease;
+                :hover {
+                    box-shadow: 0px 4px 8px rgb(45 35 66 / 40%), 0px 7px 13px -3px rgb(45 35 66 / 30%), inset 0px -3px 0px #3c4fe0;
+                    transform: translateY(-2px);
+                }
+                :active{
+                    box-shadow: inset 0px 3px 7px #3c4fe0;
+                    transform: translateY(2px);
+                }
 }
+                
 </style>
 <header>
     <a href="https://coralkashri.github.io/Cpp-Senioreas-All-Articles/">C++ Senioreas Articles</a>
@@ -34,7 +54,7 @@ header a {
         <td>
             <ul>
                 <li><b>💼 Current work position</b>: Senior C++ Developer.</li>
-                <li>🔭 [C++ Senioreas](https://www.cppsenioreas.wordpress.com) blog writer.</li>
+                <li>🔭 <a href="https://www.cppsenioreas.wordpress.com">C++ Senioreas</a> blog writer.</li>
                 <li>🌱 I’m currently learning <b>C++20/23 techniques</b>.</li>
                 <li>👯 I’m looking to collaborate on a C++ compiler writing.</li>
                 <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton">twitter</a> Or <a href="mailto:coralkashri@gmail.com">direct message</a>.</li>
