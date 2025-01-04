@@ -1,0 +1,20 @@
+markdown: kramdown
+
+remote_theme: hydecorp/hydejack
+
+lang:                  en
+title:                 C++ Senioreas - Articles Collection
+
+accent_color: rgb(79,177,186)
+
+author:
+  name:  Coral Kashri
+  email: coralkashri@gmail.com
+  about: |
+    Senior C++ developer
+    Writer of C++ Senioreas blog
+  social:
+    twitter: koralkashri
+    github:  coralkashri
+    # linkedin: coral-kashri-330b41162
+    # reddit: CoralKashri
