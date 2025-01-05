@@ -30,3 +30,7 @@ author:
     rss: https://cppsenioreas.wordpress.com/feed/
     # linkedin: coral-kashri-330b41162
     # reddit: CoralKashri
+
+hydejack:
+  # Set to `true` if you don't want to show an icon indicating external links
+  no_mark_external:    true
