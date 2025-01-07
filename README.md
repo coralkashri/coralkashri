@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://dev.to/coralkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Coral Kashri" height="30" width="30" /></a>
-<a href="https://twitter.com/koralkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Coral Kashri" height="30" width="30" /></a>
+<a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Coral Kashri" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/coral-kashri-330b41162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Coral Kashri" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/8038186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Coral Kashri" height="30" width="30" /></a>
 <a href="https://www.reddit.com/u/CoralKashri?utm_medium=android_app&utm_source=share" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Coral Kashri" height="30" width="30" /></a>
@@ -13,7 +13,7 @@
     <li>🔭 <a href="https://cppsenioreas.wordpress.com/">C++ Senioreas</a> blog writer.</li>
     <li>🌱 I’m currently learning <b>C++20/23 techniques</b>.</li>
     <li>👯 I’m looking to collaborate on a C++ compiler writing.</li>
-    <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton">twitter</a> Or <a href="mailto:coralkashri@gmail.com">direct message</a>.</li>
+    <li><b>📫 How to reach me</b>: Follow on social networks or <a href="mailto:coralkashri@gmail.com">send a direct message</a>.</li>
     <li>💬 Ask me about <b>C++17/20/23</b></li>
 </ul>
 
