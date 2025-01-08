@@ -29,12 +29,12 @@
 
 ### DevTo Posts
 <!-- DevTo-POSTS:START -->
+- [C++20 - s&lpar;uper&rpar;size](https://dev.to/coralkashri/c20-supersize-1jod)
 - [Reading Text Files Like a Pro - C++](https://dev.to/coralkashri/reading-text-files-like-a-pro-c-4l2)
 - [ADL – Avoid Debugging Later](https://dev.to/coralkashri/adl-avoid-debugging-later-3dk1)
 - [It’s just ‘,’ – The Comma Operator](https://dev.to/coralkashri/its-just-the-comma-operator-2667)
 - [LConst PConst - C++](https://dev.to/coralkashri/lconst-pconst-bke)
 - [Into the Extreme – Fold-Expressions](https://dev.to/coralkashri/into-the-extreme-fold-expressions-cfl)
-- [The View of The String](https://dev.to/coralkashri/the-view-of-the-string-1895)
 <!-- DevTo-POSTS:END -->
 
 <!--<p>
