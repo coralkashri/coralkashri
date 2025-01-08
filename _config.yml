@@ -10,6 +10,8 @@ menu:
     url:               /
   - title:             C++ Senioreas Articles List
     url:               /blog/Cpp-Senioreas-All-Articles/
+  - title:             DevTo Articles List
+    url:               /blog/Cpp-Senioreas-All-Articles/DevTo-Posts
   - title:             CoreC++ 2023 Talks' slides
     url:               /talks/from-a-modern-to-an-unbelievably-modern-cpp/
   - title:             C++ Senioreas Blog
