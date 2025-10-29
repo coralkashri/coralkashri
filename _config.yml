@@ -15,7 +15,7 @@ menu:
   - title:             CoreC++ 2023 Talks' slides
     url:               /talks/from-a-modern-to-an-unbelievably-modern-cpp/
   - title:             CoreC++ 2025 Talk's slides
-    url:               https://coralkashri.github.io/who-is-afraid-of-the-big-bad-template/
+    url:               /talks/who-is-afraid-of-the-big-bad-template/
   - title:             C++ Senioreas Blog
     url:               https://cppsenioreas.wordpress.com
 
