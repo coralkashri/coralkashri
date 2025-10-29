@@ -28,11 +28,11 @@ author:
     Senior C++ developer
     Writer of C++ Senioreas blog
   social:
-    twitter: koralkashri
+    # twitter: koralkashri
     github:  coralkashri
     email: coralkashri@gmail.com
     rss: https://cppsenioreas.wordpress.com/feed/
-    # linkedin: coral-kashri-330b41162
+    linkedin: coral-kashri-330b41162
     # reddit: CoralKashri
 
 hydejack:
