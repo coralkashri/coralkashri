@@ -5,3 +5,6 @@
 [submodule "talks/from-a-modern-to-an-unbelievably-modern-cpp"] 
   path = talks/from-a-modern-to-an-unbelievably-modern-cpp
   url = https://github.com/coralkashri/from-a-modern-to-an-unbelievably-modern-cpp.git
+[submodule "talks/who-is-afraid-of-the-big-bad-template"]
+	path = talks/who-is-afraid-of-the-big-bad-template
+	url = https://github.com/coralkashri/who-is-afraid-of-the-big-bad-template.git
